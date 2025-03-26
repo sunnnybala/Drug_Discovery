@@ -1,0 +1,16 @@
+CC(C)(C)c1ccc(-c2ccc(-c3ccc(-c4ccccc4)cc3-c3ccccc3)c(-c3ccccc3)c2)c(-c2ccc(-c3ccccc3)cc2)c1
+c1ccc(-c2ccc(-c3cc(-c4ccc(-c5cscn5)c(-c5ccccc5)c4)c(-c4ccccc4)cc3-c3cccc(-c4ccccc4)c3)cc2)cc1
+C1=C(c2cc(-c3ccccc3)c(-c3ccccc3)c(-c3ccc(-c4ccccc4-c4ccccc4)cc3)c2)CCC(c2ccc(-c3ccccc3)cc2)C1
+c1ccc(-c2cccc(-c3ccc(-c4cc(-c5ccccc5)ccc4-c4cccc(-c5ccccc5)c4)c(-c4ccccc4-c4ccccc4)c3)c2)cc1
+C1=CCC(c2ccc(-c3c(-c4ccccc4)cc(-c4ccccc4)c(-c4cc(-c5ccccc5)ccc4-c4ccccc4)c3-c3ccccc3)cc2)CC1
+c1ccc(-c2ccc(-c3c(-c4ccccc4)cc(-c4ccccc4)c(-c4ccccc4-c4ccccc4)c3-c3ccccc3)c(-c3ccccc3)c2)cc1
+O=Cc1c(-c2ccccc2)c(-c2ccccc2)c(-c2cccc(-c3ccccc3)c2)c(-c2ccccc2)c1-c1ccc(-c2ccccc2)cc1
+c1ccc(-c2ccccc2-c2ccc(-c3c(-c4ccccc4)cc(-c4ccccc4)c(-c4ccccc4)c3-c3ccccc3-c3ccccc3)cc2)cc1
+O=CNc1cccc(-c2c(-c3ccc(-c4ccccc4)cc3)c(-c3ccccc3)cc(-c3ccccc3)c2N2CCN(c3ccccc3)CC2)c1
+c1ccc(-c2ccc(-c3c(-c4ccccc4)c(-c4ccccc4)cc(-c4ccc(-c5nc(-c6ccccc6)cs5)cc4)c3-c3ccccc3)cc2)cc1
+c1ccc(-c2ccc(-c3c(-c4ccccc4)c(-c4ccccc4)c(-c4ccccc4)c(-c4cscn4)c3-c3ccc(-c4ccccc4)cc3)cc2)cc1
+CC(C)(C)c1cc(-c2ccccc2)c(-c2ccccc2)cc1-c1ccc(-c2ccc(-c3ccccc3)cc2)c(-c2ccc(-c3ccccc3)cc2)c1
+c1ccc(-c2ccc(-c3c(-c4ccccc4)cc(-c4cccc(-c5ccccc5-c5ccccc5)c4)c(-c4ccccc4)c3-c3ccccc3)cc2)cc1
+c1ccc(-c2ccccc2-c2cc(-c3ccccc3)c(-c3ccccc3)c(-c3ccccc3)c2-c2ccc(N3CCOCC3)c(-c3ccccc3)c2)cc1
+NCc1c(-c2ccccc2)cc(-c2ccccc2)c(-c2ccccc2)c1-c1cc(-c2ccc(-c3ccccc3)cc2)ccc1-c1ccccc1
+c1ccc(-c2ccc(-c3cc(-c4ccccc4)c(-c4ccccc4-c4ccccc4)c(-c4ccccc4)c3-c3ccccc3)c(-c3ccccc3)c2)cc1

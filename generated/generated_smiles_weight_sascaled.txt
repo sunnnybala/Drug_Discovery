@@ -1,0 +1,16 @@
+C=Nc1cnn(-c2cccc(-c3cnn(-c4cnn(-c5ccc(-c6ccccc6)c(-c6ccc(O)s6)c5)c4)c3)c2)c1
+CC1NCCNC1N1CC(C2NCCN(c3ccccc3)C2c2cnn(-c3ccccc3-c3cccc(-c4cnc[nH]4)n3)c2)OC1=O
+O=C1NCC(C2C(c3cccs3)NCCN2N=CC2NCCNC2c2ccc(N3CC(c4ccc(N5CCNCC5)o4)OC3=O)o2)O1
+c1coc(Cc2ccc(CN3CCN(c4ncc[nH]4)C(N4CCNCC4)C3c3c[nH]c(C4CNCCN4)n3)cc2)c1
+NNn1cc(Oc2cnc(Oc3ccc(N4CCOCC4)c(-c4ccco4)c3)[nH]2)cn1
+Nc1ncc(-c2ccc(N3CCN(c4ccccc4)C(c4cccs4)C3c3cccc(-c4cccc(C=O)n4)n3)s2)[nH]1
+NNc1c[nH]c(-c2ccc(-c3ccc(C4CN(O)C(=O)O4)cc3C3CN(c4ncc[nH]4)C(=O)O3)s2)n1
+O=C1NCC(c2nc[nH]c2-c2[nH]c(C3C(c4c[nH]c(-c5ccco5)n4)N(c4ncc[nH]4)CCN3N3CCOC3=O)nc2C2CNCCN2)O1
+c1ccc(C2C(c3ccc(-c4ncc[nH]4)cc3-c3ccc(-c4ncc[nH]4)c(N4CCNCC4)c3)N(c3cn[nH]c3)CCN2c2ccccc2)cc1
+Nc1nc(-c2ccc(C3NCCN(c4ccccn4)C3c3cccc(-c4ccc(-c5ccccn5)s4)n3)s2)[nH]c1-c1ccccn1
+O=C1NCC(C2CN(ON3CCNC(c4nc(Cl)c(-c5cn[nH]c5)[nH]4)C3Oc3ccccn3)C(=O)O2)O1
+Cc1ccc(-c2cccc(Cc3cc(C4CNCCN4)ccc3N3CCNC(N)C3)c2)c(C2CNC(=O)O2)c1
+O=C1OC(c2cnn(-c3cnn(C4CNCCN4c4ccccn4)c3)c2)CN1C1CN(C2C(c3ccccn3)NCCN2c2ccco2)C(=O)O1
+Nc1nc[nH]c1-c1nc(-c2cnn(-c3cccc(-c4cn[nH]c4)n3)c2)c(N2CC(c3ccc(-c4ccccn4)o3)OC2=O)[nH]1
+O=C1OC(C2C(Oc3cnc(-c4ccccc4)[nH]3)NCCN2N2CC(c3cnn(Cl)c3)OC2=O)CN1N1CCOCC1
+C=NC1CNCCN1N1CCNCC1c1cnn(-c2ccc(-n3cc(N=CNO)cn3)o2)c1

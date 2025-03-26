@@ -1,0 +1,16 @@
+c1ccc2c(N3CCOCC3)c[nH]c2c1
+O=C(O)c1c[nH]c2ccccc12
+c1ccc2c(N3CCOCC3)c[nH]c2c1
+c1ccc2c(N3CCOCC3)c[nH]c2c1
+O=C(O)c1c[nH]c2ccccc12
+O=C(O)c1c[nH]c2ccccc12
+O=C(O)N1CCOCC1
+c1ccc2c(-c3c[nH]c4ccccc34)c[nH]c2c1
+c1ccc2c(N3CCOCC3)c[nH]c2c1
+c1ccc2c(-c3c[nH]c4ccccc34)c[nH]c2c1
+O=C(O)c1c[nH]c2ccccc12
+O=C(O)N1CCOCC1
+c1ccc2c(N3CCOCC3)c[nH]c2c1
+c1ccc2c(-c3c[nH]c4ccccc34)c[nH]c2c1
+NS(=O)(=O)N1CCOCC1
+c1ccc2c(C3CC3)c[nH]c2c1
